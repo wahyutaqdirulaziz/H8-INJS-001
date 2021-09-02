@@ -1,0 +1,19 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "ini latihan axios",
+  "main": "axios.js",
+  "dependencies": {
+    "follow-redirects": "^1.14.2",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node axios.js"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "Yusuf",
+  "license": "ISC"
+}
